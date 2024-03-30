@@ -1,0 +1,11 @@
+## Ignore secrets
+.env
+.env.backup
+.env.production
+
+## Ignore persistent folders in case you saved it in this project folder
+/oradata
+/homes
+
+## Ignore WSL and Windows Metadata files "Alternate Data Stream"
+**/*Zone.Identifier
