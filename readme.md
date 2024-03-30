@@ -1,9 +1,9 @@
 # DISCLAIMER
-    The information provided here regarding the use of Oracle products is solely intended for instructional purposes. Any usage or implementation of these products based on the instructions provided here is done at your own risk and responsibility. It is important to note that this usage is not intended to infringe upon any copyright or terms of use established by Oracle Corporation or any other relevant parties. The instructions provided here were obtained by reading official documentation of Oracle, and the author has no affiliation or relationship with Oracle Corporation. Users are encouraged to review and adhere to the official terms of use and licensing agreements associated with Oracle products before utilizing them in any capacity. The author and publisher of this code disclaim any responsibility for the misuse or unauthorized use of Oracle products based on the information provided herein.
+The information provided here regarding the use of Oracle products is solely intended for instructional purposes. Any usage or implementation of these products based on the instructions provided here is done at your own risk and responsibility. It is important to note that this usage is not intended to infringe upon any copyright or terms of use established by Oracle Corporation or any other relevant parties. The instructions provided here were obtained by reading official documentation of Oracle, and the author has no affiliation or relationship with Oracle Corporation. Users are encouraged to review and adhere to the official terms of use and licensing agreements associated with Oracle products before utilizing them in any capacity. The author and publisher of this code disclaim any responsibility for the misuse or unauthorized use of Oracle products based on the information provided herein.
 
 # Advantages
-    You can use this docker-compose file and add other services (in the same container) to get easy replicable container projects. 
-    At the same time you can take advantage of the capacity of containers to turn on and off easily while you keep the persistent database files on your host.
+You can use this docker-compose file and add other services (in the same container) to get easy replicable container projects. 
+At the same time you can take advantage of the capacity of containers to turn on and off easily while you keep the persistent database files on your host.
 
 # First steps
 - Clone this repo
